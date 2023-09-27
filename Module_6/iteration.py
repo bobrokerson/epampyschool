@@ -4,7 +4,7 @@ decreasing the available amount, but in this case, we can get a negative amount
 at the last iteration. The second way presupposes that we add up a total cost
 when adding each new candy and compare it with the available amount. Which of
 the loops to use? In this case, both would work. The main thing is to correctly
-set the condition for a loop.'''
+set the condition for a loop'''
 
 price = 2
 amount = int(input("amount = "))
