@@ -1,7 +1,7 @@
 #!/usr/bin/python3
 
 print("Hello World!")
-
+print('We can make the world a little bit better')
 
 """
 To run this script you need to add execute bit to a file (chmod +x)
